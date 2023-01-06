@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maket/static/css/main.2af8033c.css",
+    "main.js": "/maket/static/js/main.308e6200.js",
+    "static/js/787.71df535f.chunk.js": "/maket/static/js/787.71df535f.chunk.js",
+    "static/media/sliderPhoto.png": "/maket/static/media/sliderPhoto.34b50c403683bfe8481a.png",
+    "index.html": "/maket/index.html",
+    "main.2af8033c.css.map": "/maket/static/css/main.2af8033c.css.map",
+    "main.308e6200.js.map": "/maket/static/js/main.308e6200.js.map",
+    "787.71df535f.chunk.js.map": "/maket/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2af8033c.css",
+    "static/js/main.308e6200.js"
+  ]
+}
